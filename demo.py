@@ -22,7 +22,7 @@ import dagshub
 
 dagshub.init(
    dagshub.init(repo_owner='asifkhattak333', 
-                repo_name='Mlflow_new',
+                repo_name='Mlflow',
                   mlflow=True)
 
 )
